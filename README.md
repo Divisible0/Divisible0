@@ -1,26 +1,3 @@
-<svg width="656" height="168" viewBox="0 0 656 168" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="w1zardGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#4C1D95"/>
-        <stop offset="55%" stop-color="#8B5CF6"/>
-        <stop offset="100%" stop-color="#FBBF24"/>
-    </linearGradient>
-  </defs>
-  <style>
-    text {
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 15px;
-      font-weight: bold;
-      fill: url(#w1zardGradient);
-      white-space: pre;
-    }
-  </style>
-  <text x="10" y="27" xml:space="preserve" textLength="636" lengthAdjust="spacingAndGlyphs"> █████   ███   █████ ████                                     █████</text>
-  <text x="10" y="45" xml:space="preserve" textLength="636" lengthAdjust="spacingAndGlyphs">░░███   ░███  ░░███ ░░███                                    ░░███ </text>
-  <text x="10" y="63" xml:space="preserve" textLength="636" lengthAdjust="spacingAndGlyphs"> ░███   ░███   ░███  ░███   █████████  ██████   ████████   ███████ </text>
-  <text x="10" y="81" xml:space="preserve" textLength="636" lengthAdjust="spacingAndGlyphs"> ░███   ░███   ░███  ░███  ░█░░░░███  ░░░░░███ ░░███░░███ ███░░███ </text>
-  <text x="10" y="99" xml:space="preserve" textLength="636" lengthAdjust="spacingAndGlyphs"> ░░███  █████  ███   ░███  ░   ███░    ███████  ░███ ░░░ ░███ ░███ </text>
-  <text x="10" y="117" xml:space="preserve" textLength="636" lengthAdjust="spacingAndGlyphs">  ░░░█████░█████░    ░███    ███░   █ ███░░███  ░███     ░███ ░███ </text>
-  <text x="10" y="135" xml:space="preserve" textLength="636" lengthAdjust="spacingAndGlyphs">    ░░███ ░░███      █████  █████████░░████████ █████    ░░████████</text>
-  <text x="10" y="153" xml:space="preserve" textLength="636" lengthAdjust="spacingAndGlyphs">     ░░░   ░░░      ░░░░░  ░░░░░░░░░  ░░░░░░░░ ░░░░░      ░░░░░░░░ </text>
-</svg>
+<div align="center">
+  <img src="banner.svg" alt="w1zard" />
+</div>
