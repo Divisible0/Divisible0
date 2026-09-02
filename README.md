@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="banner.svg" alt="w1zard" />
+  <img src="src/banner.svg" alt="w1zard" />
 </div>
